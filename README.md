@@ -137,5 +137,9 @@ Edit the `playbook.yml` file
     ```bash
     terraform destroy 
     ```
-    
 2. Remove the SSH key with the  **`delete_lsb_key`** script
+    
+    ```bash
+    sudo chmod +x delete_lsb_key
+    ./delete_lsb_key
+    ```
