@@ -143,3 +143,9 @@ Edit the `playbook.yml` file
     sudo chmod +x delete_lab_key
     ./delete_lab_key
     ```
+
+### Results
+
+![server_1](server_1.png)
+
+![server_2](server_2.png)
