@@ -10,9 +10,6 @@
     sudo apt-add-repository --yes --update ppa:ansible/ansible
     sudo apt install ansible
     ```
-    
-    > I am getting an error that the software-properties-common package cannot be found
-    > 
 
 ### Create SSH Key & Build Infrastructure
 
