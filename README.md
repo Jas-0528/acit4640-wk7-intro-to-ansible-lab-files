@@ -1,5 +1,9 @@
 # acit4640-wk7-intro-to-ansible-lab-files
 
+Maksym Buhai
+Augustin Nguyen
+Jasmeen Sandhu
+
 ### Installing Ansible
 
 1. Install Ansible
