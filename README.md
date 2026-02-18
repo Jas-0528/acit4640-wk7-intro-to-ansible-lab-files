@@ -31,9 +31,6 @@
 4. Run the terraform configurations. Note the IP and DNS outputted
     
     ```bash
-    # give correct premissions
-    sudo chmod +x main.tf
-    
     # initalize terraform
     terraform init
     
