@@ -14,7 +14,7 @@
 1. Create a SSH key: `aws`
     
     ```bash
-    sudo ssh-keygen -t ed25519 -f ~/.ssh/aws
+    ssh-keygen -t ed25519 -f ~/.ssh/aws
     ```
     
 2. Add the public key to your AWS account by running the `import_lab_key` script
